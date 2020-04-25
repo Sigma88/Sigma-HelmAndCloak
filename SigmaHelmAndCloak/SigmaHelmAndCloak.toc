@@ -1,0 +1,7 @@
+## Interface: 11304
+## Title: Sigma |cffbc5ff4Helm and Cloak|r |cff2e91f3(Classic)|r
+## Author: Sigma88
+## Notes: v0.1.0 |cff00ff00Release|r
+## SavedVariablesPerCharacter: Sigma_HelmAndCloak
+
+SigmaHelmAndCloak.lua
