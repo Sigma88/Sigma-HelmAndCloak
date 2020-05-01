@@ -1,3 +1,9 @@
+**v0.2.0**
+
+- Rearranged code for higher modularity
+- Added ElvUI compatibility
+
+
 **v0.1.0**
 
 - First Full Release
