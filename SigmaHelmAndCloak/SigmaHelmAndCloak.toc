@@ -1,7 +1,14 @@
 ## Interface: 11304
 ## Title: Sigma |cffbc5ff4Helm and Cloak|r |cff2e91f3(Classic)|r
 ## Author: Sigma88
-## Notes: v0.1.0 |cff00ff00Release|r
-## SavedVariablesPerCharacter: Sigma_HelmAndCloak
+## Notes: v0.2.0 |cff00ff00Release|r
+## SavedVariablesPerCharacter: SigmaHelmAndCloak
 
 SigmaHelmAndCloak.lua
+
+Core\DefineFunctions.lua
+Core\ReplaceFunctions.lua
+
+Buttons\HelmButton.lua
+Buttons\CloakButton.lua
+Buttons\ElvUICompatibility.lua
